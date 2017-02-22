@@ -1,0 +1,27 @@
+# Vendor files
+vendor/*/
+
+# VIM swap files
+*.swp
+*.swo
+
+# OS-dependent
+.DS_Store
+*~
+
+# IntelliJ
+*.iml
+/.idea
+
+# Executables
+discover-go.exe
+discover-go
+
+# Git versioning file
+utils/gitver.go
+
+# Data folder
+/data
+
+# Node (Gulp)
+/node_modules

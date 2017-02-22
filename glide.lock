@@ -1,0 +1,8 @@
+hash: fad44b5a2afd7547cddb41f223ba7889e65a8a9650d1719a3f4f77df4a5a816d
+updated: 2017-02-21T11:05:18.957622311+11:00
+imports:
+- name: github.com/jinzhu/gorm
+  version: 5174cc5c242a728b435ea2be8a2f7f998e15429b
+- name: github.com/mattn/go-sqlite3
+  version: ca5e3819723d8eeaf170ad510e7da1d6d2e94a08
+testImports: []
